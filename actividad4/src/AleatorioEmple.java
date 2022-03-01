@@ -5,6 +5,7 @@ import java.io.RandomAccessFile;
 public class AleatorioEmple {
 
 	public static void main(String[] args) throws IOException {
+		// comentario 1
 		crear();
 		leer();
 	}
